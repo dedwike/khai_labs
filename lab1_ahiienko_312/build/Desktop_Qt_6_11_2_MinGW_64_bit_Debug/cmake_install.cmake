@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ACER/Documents/lab1_ahiienko_312
+# Install script for directory: C:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "C:/Users/ACER/Documents/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/lab1_ahiienko_312.exe")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "C:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/lab1_ahiienko_312.exe")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/lab1_ahiienko_312.exe" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/lab1_ahiienko_312.exe")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -62,6 +62,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/ACER/Documents/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

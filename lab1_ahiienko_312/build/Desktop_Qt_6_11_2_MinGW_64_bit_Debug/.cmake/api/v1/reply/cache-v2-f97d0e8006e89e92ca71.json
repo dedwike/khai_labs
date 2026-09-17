@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/ACER/Documents/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug"
+			"value" : "c:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -467,7 +467,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ACER/Documents/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/ACER/Documents/lab1_ahiienko_312"
+			"value" : "C:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1039,7 +1039,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/ACER/Documents/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+			"value" : "C:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
 		},
 		{
 			"name" : "CMAKE_PROJECT_NAME",
@@ -1455,7 +1455,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/ACER/Documents/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/.qtcreator/cmake-helper"
+			"value" : "C:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/.qtcreator/cmake-helper"
 		},
 		{
 			"name" : "QT_CREATOR_ENABLE_MAINTENANCE_TOOL_PROVIDER",
@@ -1551,7 +1551,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ACER/Documents/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug"
+			"value" : "C:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug"
 		},
 		{
 			"name" : "lab1_ahiienko_312_IS_TOP_LEVEL",
@@ -1575,7 +1575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ACER/Documents/lab1_ahiienko_312"
+			"value" : "C:/Users/ACER/Desktop/projects/khai_labs/lab1_ahiienko_312"
 		}
 	],
 	"kind" : "cache",

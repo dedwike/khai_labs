@@ -53,10 +53,10 @@ RM = D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ACER\Documents\lab1_ahiienko_312
+CMAKE_SOURCE_DIR = C:\Users\ACER\Desktop\projects\khai_labs\lab1_ahiienko_312
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ACER\Documents\lab1_ahiienko_312\build\Desktop_Qt_6_11_2_MinGW_64_bit_Debug
+CMAKE_BINARY_DIR = C:\Users\ACER\Desktop\projects\khai_labs\lab1_ahiienko_312\build\Desktop_Qt_6_11_2_MinGW_64_bit_Debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/lab1_ahiienko_312.dir/clean
 CMakeFiles/lab1_ahiienko_312.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab1_ahiienko_312.dir\build.make CMakeFiles/lab1_ahiienko_312.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab1_ahiienko_312.dir\build.make CMakeFiles/lab1_ahiienko_312.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\ACER\Documents\lab1_ahiienko_312\build\Desktop_Qt_6_11_2_MinGW_64_bit_Debug\CMakeFiles --progress-num=1,2 "Built target lab1_ahiienko_312"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\ACER\Desktop\projects\khai_labs\lab1_ahiienko_312\build\Desktop_Qt_6_11_2_MinGW_64_bit_Debug\CMakeFiles --progress-num=1,2 "Built target lab1_ahiienko_312"
 .PHONY : CMakeFiles/lab1_ahiienko_312.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab1_ahiienko_312.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ACER\Documents\lab1_ahiienko_312\build\Desktop_Qt_6_11_2_MinGW_64_bit_Debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ACER\Desktop\projects\khai_labs\lab1_ahiienko_312\build\Desktop_Qt_6_11_2_MinGW_64_bit_Debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab1_ahiienko_312.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ACER\Documents\lab1_ahiienko_312\build\Desktop_Qt_6_11_2_MinGW_64_bit_Debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ACER\Desktop\projects\khai_labs\lab1_ahiienko_312\build\Desktop_Qt_6_11_2_MinGW_64_bit_Debug\CMakeFiles 0
 .PHONY : CMakeFiles/lab1_ahiienko_312.dir/rule
 
 # Convenience name for target.
